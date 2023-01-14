@@ -1,0 +1,10 @@
+(on cmd):
+
+node -v
+
+npm -v
+
+npx create-react-app <filename(small letters only)>
+
+code . (to open proj in vs code)
+
